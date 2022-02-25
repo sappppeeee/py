@@ -1,3 +1,6 @@
+# Lists 2-23-22
+# Mohammed Shourov
+
 myList = ['banana', 'cherry', 'apple']
 print(myList)
 
